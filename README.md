@@ -4,28 +4,10 @@
   
   <!-- About Me SVG Card -->
   <img src="About-me.svg" alt="About Me" width="850" />
+
+  <img src="pillars.svg" alt="Technical & Design Pillars" width="850" />
 </div>
 
-
-### 🏛️ Technical & Design Pillars
-
-**Spatial & Product Design**
-* Architectural & Interior Design
-* 3D Modeling & Visualization
-* Rhino, Blender, CAD
-* Physical Prototyping
-
-**Data Science & AI**
-* Deep Learning & Neural Nets
-* PyTorch, TensorFlow, Keras
-* Predictive System Modeling
-* Pandas, NumPy, Scikit-Learn
-
-**Full-Stack & Interactive**
-* Python, JavaScript, Rust
-* React, Tailwind, Firebase
-* Three.js & WebGL
-* Tauri Cross-Platform Apps
 <br>
 
 <div align="center">
