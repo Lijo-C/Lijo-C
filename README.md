@@ -22,7 +22,7 @@
 <br>
 
 ## 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=13A89E&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
 <br><br>
 
 ### ✍️ Random Dev Quote
