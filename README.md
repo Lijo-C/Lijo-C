@@ -22,17 +22,8 @@
 <br>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.shion.dev/api?username=Lijo-C&bg_color=151515&title_color=13A89E&text_color=ffffff&icon_color=13A89E&border_color=13A89E&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_color=13A89E&hide_border=false" alt="GitHub Streak" />
 <br><br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lijo-C&bg_color=151515&title_color=13A89E&text_color=ffffff&border_color=13A89E&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-<br>
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Lijo-C&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-<br>
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=151515&title_color=13A89E&text_color=ffffff" alt="Random Dev Quote" />
