@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="none" viewBox="0.484 0 849.516 150.37" width="850" height="250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="silverTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0" stop-color="#9e9e9e"/>
+      <stop offset="0.25" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#d0d0d0"/>
+      <stop offset="0.75" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#8a8a8a"/>
+    </linearGradient>
+    <linearGradient id="silverCenter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.3" stop-color="#e0e0e0"/>
+      <stop offset="1" stop-color="#9e9e9e"/>
+    </linearGradient>
+  </defs>
+  <rect width="850" height="152.717" fill="#151515" style=""/>
+  <rect x="0" y="0" width="250" height="15" fill="url(#silverTop)"/>
+  <rect x="250" y="0" width="130" height="15" fill="#3a3a3a"/>
+  <rect x="380" y="0" width="140" height="15" fill="#124E4A"/>
+  <rect x="520" y="0" width="330" height="15" fill="#13A89E"/>
+  <rect x="830" y="15" width="20" height="69.858" fill="#13A89E" style=""/>
+  <rect x="830" y="82.505" width="20" height="70.832" fill="#124E4A" style=""/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#ffffff" transform="matrix(1, 0, 0, 0.808349, 49.331425, -7.816497)" style="">
+    <text style="white-space: pre; font-size: 25px;" x="180.967" y="115.598" text-anchor="start" letter-spacing="0.5" font-weight="300" font-size="25">Passion is what happens when you combine</text>
+    <text x="733.869" y="168.419" font-size="25" font-weight="400" text-anchor="end" letter-spacing="0.5" style="white-space: pre; font-size: 25px;">Design Thinking with Data-Driven Insights</text>
+  </g>
+  <rect x="231.749" y="94.694" width="275" height="7" fill="url(#silverCenter)"/>
+  <rect x="506.749" y="94.694" width="275" height="7" fill="#13A89E"/>
+</svg>
