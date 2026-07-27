@@ -22,12 +22,11 @@
 <br>
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=13A89E)
-
-<br>
+<img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=13A89E&v=2" alt="GitHub Streak" />
+<br><br>
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=151515&title_color=13A89E&quote_color=13A89E&author_color=13A89E)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=151515&title_color=13A89E&text_color=13A89E&v=2" alt="Random Dev Quote" />
 <br>
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=Lijo-C&icon=2&color=13A89E&style=for-the-badge)](https://visitcount.itsvg.in)
