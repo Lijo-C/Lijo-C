@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Top Custom Banner -->
-  <img src="banner.svg" alt="Design Thinking with Data-Driven Insights" width="850" />
+  <img src="Banner.svg" alt="Design Thinking with Data-Driven Insights" width="850" />
   
   <!-- About Me SVG Card -->
-  <img src="about-me.svg" alt="About Me" width="850" />
+  <img src="About-me.svg" alt="About Me" width="850" />
 </div>
 
 <br>
