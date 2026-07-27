@@ -25,8 +25,8 @@
 <img src="https://streak-stats.demolab.com/?user=Lijo-C&background=151515&stroke=13A89E&ring=13A89E&fire=13A89E&currStreakNum=ffffff&currStreakLabel=13A89E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=13A89E&v=2" alt="GitHub Streak" />
 <br><br>
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?bg_color=151515&title_color=13A89E&text_color=13A89E&icon_color=13A89E&v=4" alt="Random Dev Quote" />
+### ✍️ Rotating Dev Quotes
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&pause=3000&color=13A89E&background=151515&center=true&vCenter=true&width=850&height=100&lines=%22Design+is+intelligence+made+visible.%22;%22Data+will+talk+to+you+if+you're+willing+to+listen.%22;%22First,+solve+the+problem.+Then,+write+the+code.%22" alt="Typing Quotes" />
 <br>
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=Lijo-C&icon=2&color=13A89E&style=for-the-badge)](https://visitcount.itsvg.in)
